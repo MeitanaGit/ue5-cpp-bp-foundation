@@ -71,6 +71,8 @@ Saved/*
 Intermediate/*
 Plugins/**/Intermediate/*
 
+.idea/
+.vs/
 .vscode/
 DerivedDataCache/
 *.log
