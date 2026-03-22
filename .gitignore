@@ -71,5 +71,12 @@ Saved/*
 Intermediate/*
 Plugins/**/Intermediate/*
 
+.vscode/
+DerivedDataCache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
 # Cache files for the editor to use
 DerivedDataCache/*
