@@ -5,7 +5,6 @@
 
 ### 攻撃・弾の挙動と切り替え
 ![attack](images/attack.gif)
-![reflect](images/reflect.gif)
 
 このリポジトリは、Zennの記事  
 「【UE5初心者】AIのGemini活用でC++とBPを使って4日でゲーム開発の土台を作成」  
