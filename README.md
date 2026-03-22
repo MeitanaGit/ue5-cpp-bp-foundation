@@ -1,6 +1,13 @@
 # 【UE5】C++とBPでつくるゲーム開発の土台（4日間チャレンジ）
 
-![demo](image.gif)
+### 移動と基本操作
+![movement](images/movement.gif)
+
+### 攻撃・弾の挙動
+![attack](images/attack.gif)
+
+### 反射弾・応用要素
+![reflect](images/reflect.gif)
 
 このリポジトリは、Zennの記事  
 「【UE5初心者】AIのGemini活用でC++とBPを使って4日でゲーム開発の土台を作成」  
