@@ -3,10 +3,8 @@
 ### 移動と基本操作
 ![movement](images/movement.gif)
 
-### 攻撃・弾の挙動
+### 攻撃・弾の挙動と切り替え
 ![attack](images/attack.gif)
-
-### 反射弾・応用要素
 ![reflect](images/reflect.gif)
 
 このリポジトリは、Zennの記事  
